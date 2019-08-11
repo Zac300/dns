@@ -6,4 +6,4 @@
 -- A records
 a(_a, "14.2.205.26")
 a("*", "14.2.205.26")
-cname("homeassistant", "krebbekx.com"
+cname("homeassistant", "krebbekx.com")
