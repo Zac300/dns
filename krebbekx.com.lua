@@ -4,6 +4,6 @@
 -- _a = "krebbekx.com"
 
 -- A records
-a(_a, "182.239.157.213")
+a(_a, "14.2.205.145")
 cname("*", _a)
 cname("homeassistant", _a)
